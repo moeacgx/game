@@ -1,5 +1,5 @@
 # mikutap
-A Mainland China friendly and indenpendent version extracted from https://muabl.github.io/mikutap/ 
+A Mainland China friendly and indenpendent version extracted from https://muabl.github.io/game/Mikutap/ 
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
@@ -31,5 +31,5 @@ http://exittunes.com/license/
 由于违规使用本repo带来的后果HFIProgramming不承担结果  
 
 # DEMO  
-[https://muabl.github.io/mikutap/](https://muabl.github.io/mikutap/)
+[https://muabl.github.io/game/Mikutap/](https://muabl.github.io/game/Mikutap/)
 
